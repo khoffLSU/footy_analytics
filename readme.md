@@ -6,7 +6,7 @@ My goal is to both increase my knowledge of the game of soccer and extend my kno
 
 ### Data Sources
 Primary datasource for the course:
-- [StatsBomb](https://github.com/statsbomb/open-data)
+- [StatsBomb](https://github.com/statsbomb/statsbombpy)
 - [WyScout](https://figshare.com/collections/Soccer_match_event_dataset/4415000/2)
 
 ### Major Libaries
