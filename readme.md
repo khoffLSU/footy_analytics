@@ -16,3 +16,4 @@ The the requirements.txt file in the repository.  I am leveraging VScode for my 
 
 ### Project Documentation
 The remainder of my thoughts and notations will be present along side my code in the Jupyter notebooks created as part of the course.  I will make an effort to come back and link the jupyter notebooks for different sections of the course in this readme so they can be easily accessed. I am sure someone will remind me if I forget (probably not :smiley:)
+- [Using Statsbomb notebook](https://github.com/khoffLSU/footy_analytics/blob/master/Using%20Statsbomb.ipynb)
