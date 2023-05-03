@@ -19,3 +19,5 @@ The remainder of my thoughts and notations will be present along side my code in
 - [Using Statsbomb notebook](https://github.com/khoffLSU/footy_analytics/blob/master/Using%20Statsbomb.ipynb)
 - [Using WyScout notebook](https://github.com/khoffLSU/footy_analytics/blob/master/Using%20Wyscout%20data.ipynb)
 - [Statistical Tests notebook](https://github.com/khoffLSU/footy_analytics/blob/master/Statistical%20Tests%20Sign%2C%20Z%20and%20T.ipynb)
+- [Visualizing Football - Shots](https://github.com/khoffLSU/footy_analytics/blob/master/Visualizing%20Football%20-%20Shots.ipynb)
+- [Visualizing Football - Passes](https://github.com/khoffLSU/footy_analytics/blob/master/Visualizing%20Football%20-%20passes.ipynb)
