@@ -21,3 +21,8 @@ The remainder of my thoughts and notations will be present along side my code in
 - [Statistical Tests notebook](https://github.com/khoffLSU/footy_analytics/blob/master/Statistical%20Tests%20Sign%2C%20Z%20and%20T.ipynb)
 - [Visualizing Football - Shots](https://github.com/khoffLSU/footy_analytics/blob/master/Visualizing%20Football%20-%20Shots.ipynb)
 - [Visualizing Football - Passes](https://github.com/khoffLSU/footy_analytics/blob/master/Visualizing%20Football%20-%20passes.ipynb)
+- [Visualizing Football - Passing Heatmaps](https://github.com/khoffLSU/footy_analytics/blob/master/Visualizing%20Football%20-%20passing%20heatmaps.ipynb)
+- [Visualizing Football - Passing Networks](https://github.com/khoffLSU/footy_analytics/blob/master/Visualizing%20Football%20-%20passing%20network.ipynb)
+- [Intro to Linear Regression](https://github.com/khoffLSU/footy_analytics/blob/master/Introduction%20to%20Models%20-%20Linear%20regression.ipynb)
+- [Expected Goals](https://github.com/khoffLSU/footy_analytics/blob/master/Expected%20goals.ipynb)
+- [Player Performance and Radar Plots](https://github.com/khoffLSU/footy_analytics/blob/master/Radar%20Plots.ipynb)
