@@ -26,3 +26,6 @@ The remainder of my thoughts and notations will be present along side my code in
 - [Intro to Linear Regression](https://github.com/khoffLSU/footy_analytics/blob/master/Introduction%20to%20Models%20-%20Linear%20regression.ipynb)
 - [Expected Goals](https://github.com/khoffLSU/footy_analytics/blob/master/Expected%20goals.ipynb)
 - [Player Performance and Radar Plots](https://github.com/khoffLSU/footy_analytics/blob/master/Radar%20Plots.ipynb)
+- [Valuing Actions](https://github.com/khoffLSU/footy_analytics/blob/master/Valuing%20Actions%20Chapter.ipynb)
+- [Valuing Actions calc xT action based](https://github.com/khoffLSU/footy_analytics/blob/master/Valuing%20actions%20calc%20xT%20action%20based.ipynb)
+- [Simulating Matches](https://github.com/khoffLSU/footy_analytics/blob/master/Simulating%20Matches.ipynb)
