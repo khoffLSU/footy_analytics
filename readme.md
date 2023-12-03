@@ -8,6 +8,7 @@ My goal is to both increase my knowledge of the game of soccer and extend my kno
 Primary datasource for the course:
 - [StatsBomb](https://github.com/statsbomb/statsbombpy)
 - [WyScout](https://figshare.com/collections/Soccer_match_event_dataset/4415000/2)
+- [Metrica Data](https://raw.githubusercontent.com/metrica-sports/sample-data)
 
 ### Major Libaries
 The the requirements.txt file in the repository.  I am leveraging VScode for my IDE environment, but will primarily leverage jupyter for my exploration of the process since this is not meant to result in a production ML application.  I will highlight specific libraries as the Soccermatics course make intention mention.  While MPL Soccer is definitely going to be applied, I am not sure I will manage the deployment of a webapp through Streamlit.
@@ -29,3 +30,4 @@ The remainder of my thoughts and notations will be present along side my code in
 - [Valuing Actions](https://github.com/khoffLSU/footy_analytics/blob/master/Valuing%20Actions%20Chapter.ipynb)
 - [Valuing Actions calc xT action based](https://github.com/khoffLSU/footy_analytics/blob/master/Valuing%20actions%20calc%20xT%20action%20based.ipynb)
 - [Simulating Matches](https://github.com/khoffLSU/footy_analytics/blob/master/Simulating%20Matches.ipynb)
+- [Pitch Control](https://github.com/khoffLSU/footy_analytics/blob/master/Pitch%20control.ipynb)
