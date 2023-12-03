@@ -30,4 +30,4 @@ The remainder of my thoughts and notations will be present along side my code in
 - [Valuing Actions](https://github.com/khoffLSU/footy_analytics/blob/master/Valuing%20Actions%20Chapter.ipynb)
 - [Valuing Actions calc xT action based](https://github.com/khoffLSU/footy_analytics/blob/master/Valuing%20actions%20calc%20xT%20action%20based.ipynb)
 - [Simulating Matches](https://github.com/khoffLSU/footy_analytics/blob/master/Simulating%20Matches.ipynb)
-- [Pitch Control](https://github.com/khoffLSU/footy_analytics/blob/master/Pitch%20control.ipynb)
+- [Pitch Control w/ Laurie Shaw](https://github.com/khoffLSU/footy_analytics/blob/master/Pitch%20control.ipynb)
